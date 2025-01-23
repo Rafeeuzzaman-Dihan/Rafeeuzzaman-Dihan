@@ -59,6 +59,43 @@ I am a passionate Developer, My primary focus is on backend development, where I
           <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
         </td>
       </tr>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="50" height="50" alt="C++"/><br>C++
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/C_Sharp_logo.svg" width="50" height="50" alt="C#"/><br>C#
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://www.python.org/" style="color: white;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50" alt="Python"/>
+          </a>
+          <br>Python
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://git-scm.com/images/logos/git-icon.svg" width="50" height="50" alt="Git"/><br>Git
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" alt="GitHub"/><br>GitHub
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://code.visualstudio.com/assets/favicon.ico" width="50" height="50" alt="VS Code"/><br>Visual Studio Code
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Adobe_Photoshop_CC_icon.svg" width="50" height="50" alt="Photoshop"/><br>Adobe Photoshop
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Adobe_Premiere_Pro_CC_icon.svg" width="50" height="50" alt="Premiere Pro"/><br>Adobe Premiere Pro
+        </td>
+      </tr>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Canva_logo.png" width="50" height="50" alt="Canva"/><br>Canva
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://upload.wikimedia.org/wikipedia/en/2/27/CapCut_logo.png" width="50" height="50" alt="CapCut"/><br>CapCut
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
@@ -104,65 +141,3 @@ I am a passionate Developer, My primary focus is on backend development, where I
 
 <div align="center">
 <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafeeuzzaman-Dihan&theme=dark&hide_border=true">
-
-<div align="center">
-
-<h2>🌐 Connect with Me</h2>
-
-<p>Discover my work and connect on these platforms!</p>
-
-<table>
-
-<tr>
-
-<td align="center">
-<a href="https://www.youtube.com/@ViRUStheRAGE" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
-</td>
-
-<td align="center">
-<a href="https://www.instagram.com/rz.dihan" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-</td>
-
-<td align="center">
-<a href="https://www.linkedin.com/in/rafeeuzzaman-dihan/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-</td>
-
-<td align="center">
-<a href="https://www.facebook.com/rafeeuzzamandihan/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<a href="https://discord.gg/virus_00" target="_blank">
-<img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/Rafeeuzzaman-Dihan" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
-<br>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Rafeeuzzaman-Dihan&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
-</p>
