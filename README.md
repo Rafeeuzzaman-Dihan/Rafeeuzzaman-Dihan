@@ -8,6 +8,7 @@
 <p align="center">
 I am a passionate Developer, My primary focus is on backend development, where I love to play with logics, though I also explore frontend technologies. Constantly learning and applying new concepts, I strive to create efficient and innovative solutions. Outside of programming. I aim to blend my interests into a career that drives both personal and professional growth.
 </p>
+<hr>
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
@@ -61,13 +62,13 @@ I am a passionate Developer, My primary focus is on backend development, where I
     </tbody>
   </table>
 </div>
+<hr>
 
-
-<h3 align="center">📊 Git Stats</h3>
+<h1 align="center">📊 Git Stats</h1>
 
 <div align="center">
   <a href="https://github.com/Rafeeuzzaman-Dihan">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rafeeuzzaman-Dihan&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Rafeeuzzaman's GitHub stats" />
+    <img width="700 cm" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rafeeuzzaman-Dihan&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"" />
   </a>
 </div>
 
@@ -101,10 +102,8 @@ I am a passionate Developer, My primary focus is on backend development, where I
   </table>
 </div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafeeuzzaman-Dihan&theme=highcontrast&hide_border=true">
-
 <div align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafeeuzzaman-Dihan&custom_title=Dihan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafeeuzzaman-Dihan&theme=dark&hide_border=true">
 
 <div align="center">
 
