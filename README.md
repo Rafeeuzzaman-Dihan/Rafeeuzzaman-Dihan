@@ -83,21 +83,21 @@
 
 <p align="center">
 <a href="https://github.com/Rafeeuzzaman-Dihan">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rafeeuzzaman-Dihan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rafeeuzzaman-Dihan&layout=compact&langs_count=20&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dihan&theme=dark" />
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rafeeuzzaman-Dihan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rafeeuzzaman-Dihan&layout=compact&langs_count=20&theme=algolia"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dihan&theme=algolia"/>
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/Rafeeuzzaman-Dihan">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafeeuzzaman-Dihan&theme=dark&hide_border=true" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafeeuzzaman-Dihan&theme=dark&hide_border=true" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafeeuzzaman-Dihan&theme=algolia&hide_border=true" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafeeuzzaman-Dihan&theme=algolia&hide_border=true" alt="Top Languages by Commit" />
 </a>
 </p>
 
 <div align="center">
-  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafeeuzzaman-Dihan&theme=dark&hide_border=true">
+  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafeeuzzaman-Dihan&theme=algolia&hide_border=true">
 </div>
 
 <hr>
