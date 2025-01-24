@@ -128,6 +128,6 @@
 <hr>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rafeeuzzaman-Dihan&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+  <img src="https://komarev.com/ghpvc/?username=Rafeeuzzaman-Dihan&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
