@@ -1,4 +1,4 @@
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Rafeeuzzaman Dihan</h1>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Dihan</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10&color=9400D3&center=true&vCenter=true&width=435&lines=Developer;Gamer;Streamer;Photographer;Editor;" alt="Typing SVG" />
 </p>
@@ -83,15 +83,15 @@
 
 <p align="center">
 <a href="https://github.com/Rafeeuzzaman-Dihan">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rafeeuzzaman-Dihan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rafeeuzzaman-Dihan&layout=compact&langs_count=20&theme=algolia"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rafeeuzzaman-Dihan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rafeeuzzaman-Dihan&layout=compact&langs_count=20&theme=dark"/>
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/Rafeeuzzaman-Dihan">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafeeuzzaman-Dihan&theme=default&hide_border=true" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafeeuzzaman-Dihan&theme=default&hide_border=true" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafeeuzzaman-Dihan&theme=dark&hide_border=true" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafeeuzzaman-Dihan&theme=dark&hide_border=true" alt="Top Languages by Commit" />
 </a>
 </p>
 
@@ -99,7 +99,9 @@
   <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafeeuzzaman-Dihan&theme=dark&hide_border=true">
 </div>
 
-<h3 align="center">🌐 Contact & Connect Me:</h3>
+<hr>
+
+<h3 align="center">🌐 Contact & Connect with Me:</h3>
 
 <div align="center">
   <a href="mailto:rafeeuzzamandihan@gmail.com">
@@ -122,7 +124,7 @@
   </a>
 </div>
 
-<br>
+<hr>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rafeeuzzaman-Dihan&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
