@@ -12,93 +12,24 @@ I am a passionate Developer, My primary focus is on backend development, where I
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
-<div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-    <tbody>
-      <tr>
-        <td align="center" style="border: none;">
-          <a href="https://vuejs.org/" style="color: white;">
-            <img src="https://skillicons.dev/icons?i=vuejs" width="50" height="50" alt="Vue.js"/>
-          </a>
-          <br>Vue.js
-        </td>
-        <td align="center" style="border: none;">
-          <a href="https://nuxtjs.org/" style="color: white;">
-            <img src="https://skillicons.dev/icons?i=nuxt" width="50" height="50" alt="Nuxt.js"/>
-          </a>
-          <br>Nuxt.js
-        </td>
-        <td align="center" style="border: none;">
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50"/>
-          </a>
-          <br>JavaScript
-        </td>
-        <td align="center" style="border: none;">
-          <a href="https://tailwindcss.com/" style="color: white;">
-            <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
-          </a>
-          <br>Tailwind CSS
-        </td>
-        <td align="center" style="border: none;">
-          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
-            <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
-          </a>
-          <br>HTML
-        </td>
-        <td align="center" style="border: none;">
-          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
-            <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
-          </a>
-          <br>CSS
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="50" height="50" alt="PHP"/><br>PHP
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
-        </td>
-      </tr>
-      <tr>
-        <td align="center" style="border: none;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="50" height="50" alt="C++"/><br>C++
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/C_Sharp_logo.svg" width="50" height="50" alt="C#"/><br>C#
-        </td>
-        <td align="center" style="border: none;">
-          <a href="https://www.python.org/" style="color: white;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50" alt="Python"/>
-          </a>
-          <br>Python
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://git-scm.com/images/logos/git-icon.svg" width="50" height="50" alt="Git"/><br>Git
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" alt="GitHub"/><br>GitHub
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://code.visualstudio.com/assets/favicon.ico" width="50" height="50" alt="VS Code"/><br>Visual Studio Code
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Adobe_Photoshop_CC_icon.svg" width="50" height="50" alt="Photoshop"/><br>Adobe Photoshop
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Adobe_Premiere_Pro_CC_icon.svg" width="50" height="50" alt="Premiere Pro"/><br>Adobe Premiere Pro
-        </td>
-      </tr>
-      <tr>
-        <td align="center" style="border: none;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Canva_logo.png" width="50" height="50" alt="Canva"/><br>Canva
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://upload.wikimedia.org/wikipedia/en/2/27/CapCut_logo.png" width="50" height="50" alt="CapCut"/><br>CapCut
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)&nbsp;
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)&nbsp;
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-999999?style=for-the-badge&logo=adobepremierepro&logoColor=white)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
+![CapCut](https://img.shields.io/badge/CapCut-4A4A4A?style=for-the-badge&logo=capcut&logoColor=white)&nbsp;
 <hr>
 
 <h1 align="center">📊 Git Stats</h1>
