@@ -79,12 +79,13 @@
 
 <hr>
 
-<h1 align="center">📊 Git Stats</h1>
+<h1 align="center">📊 Stats</h1>
 
 <p align="center">
 <a href="https://github.com/Rafeeuzzaman-Dihan">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rafeeuzzaman-Dihan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rafeeuzzaman-Dihan&layout=compact&langs_count=20&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dihan&theme=dark" />
 </a>
 </p>
 
