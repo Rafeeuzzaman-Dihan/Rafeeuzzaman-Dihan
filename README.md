@@ -70,7 +70,7 @@
       <td style="width: 50%; vertical-align: top; padding: 20px;">
         <h2 align="center">🚀 About Me</h2>
         <p align="center">
-          I am a passionate Developer. My primary focus is on backend development, where I love to play with logics, though I also explore frontend technologies. Constantly learning and applying new concepts, I strive to create efficient and innovative solutions. Outside of programming, I aim to blend my interests into a career that drives both personal and professional growth.
+          I am a passionate Developer. My primary focus is on backend development, where I love to play with logics, though I also explore frontend technologies. Constantly learning and applying new concepts, I strive to create efficient and innovative solutions. I aim           to blend my interests into a career that drives my both personal and professional growth.
         </p>
       </td>
     </tr>
