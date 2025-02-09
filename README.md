@@ -97,6 +97,7 @@
 </p>
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rafeeuzzaman-Dihan&theme=algolia" />
   <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafeeuzzaman-Dihan&theme=algolia&hide_border=true">
 </div>
 
