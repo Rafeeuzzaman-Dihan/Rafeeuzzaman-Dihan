@@ -84,7 +84,7 @@
 <p align="center">
 <a href="https://github.com/Rafeeuzzaman-Dihan">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rafeeuzzaman-Dihan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rafeeuzzaman-Dihan&layout=compact&langs_count=20&theme=algolia"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rafeeuzzaman-Dihan&layout=compact&langs_count=20&theme=algolia&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dihan&theme=algolia&custom_title=Coding%20Times%20(since%20January%2024%20,%202025)"/>
 </a>
 </p>
