@@ -70,7 +70,7 @@
       <td style="width: 50%; vertical-align: top; padding: 20px;">
         <h2 align="center">🚀 About Me</h2>
         <p align="center">
-          I am a passionate Developer. My primary focus is on backend development. Where I love to play with logics, though I also explore frontend technologies. Constantly learning and applying new concepts, I strive to create efficient and innovative solutions. I aim           to blend my interests into a career that drives my both personal and professional growth.
+          I am a passionate Developer. My primary focus is on backend development, where I love to play with logics, though I also explore frontend technologies. Constantly learning and applying new concepts, I strive to create efficient and innovative solutions. I aim to blend my interests into a career that drives my both personal and professional growth.
         </p>
       </td>
     </tr>
@@ -84,7 +84,7 @@
 <p align="center">
 <a href="https://github.com/Rafeeuzzaman-Dihan">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rafeeuzzaman-Dihan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rafeeuzzaman-Dihan&layout=compact&langs_count=20&theme=algolia&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rafeeuzzaman-Dihan&layout=compact&langs_count=30&theme=algolia&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dihan&theme=algolia&custom_title=Coding%20Times%20(since%20January%2024%20,%202025)"/>
 </a>
 </p>
