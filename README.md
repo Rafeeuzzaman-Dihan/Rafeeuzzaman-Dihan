@@ -4,7 +4,6 @@
 </p>
 
 <hr>
-
 <div align="center">
   <table style="width: 100%; border-collapse: collapse;">
     <tr>
