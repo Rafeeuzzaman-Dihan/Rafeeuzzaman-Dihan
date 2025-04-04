@@ -10,8 +10,14 @@
       <td style="width: 50%; vertical-align: top; padding: 20px;">
         <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">Tech Stack</h2>
         <p align="center">
-          <a href="https://vuejs.org/">
-            <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+          <a href="https://www.php.net/">
+            <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+          </a>
+          <a href="https://laravel.com/">
+            <img src="https://img.shields.io/badge/Laravel-F2A9B7?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+          </a>
+          <a href="https://laravel.com/docs/9.x/blade">
+            <img src="https://img.shields.io/badge/Blade-FF8C00?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade" />
           </a>
           <a href="https://nuxtjs.org/">
             <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
@@ -19,17 +25,20 @@
           <a href="https://www.javascript.com/">
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
           </a>
+          <a href="https://www.typescriptlang.org/">
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+          </a>
           <a href="https://tailwindcss.com/">
             <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+          </a>
+          <a href="https://vuejs.org/">
+            <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
           </a>
           <a href="https://html.spec.whatwg.org/">
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
           </a>
           <a href="https://www.w3.org/Style/CSS/">
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-          </a>
-          <a href="https://www.php.net/">
-            <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
           </a>
           <a href="https://www.mysql.com/">
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -49,27 +58,12 @@
           <a href="https://github.com/">
             <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
           </a>
-          <a href="https://code.visualstudio.com/">
-            <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-          </a>
-          <a href="https://www.adobe.com/products/photoshop.html">
-            <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
-          </a>
-          <a href="https://www.adobe.com/products/premiere.html">
-            <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-999999?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Adobe Premiere Pro" />
-          </a>
-          <a href="https://www.canva.com/">
-            <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-          </a>
-          <a href="https://www.capcut.com/">
-            <img src="https://img.shields.io/badge/CapCut-4A4A4A?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
-          </a>
         </p>
       </td>
       <td style="width: 50%; vertical-align: top; padding: 20px;">
         <h2 align="center">🚀 About Me</h2>
         <p align="center">
-          I am a passionate Developer. My primary focus is on backend development, where I love to play with logics, though I also explore frontend technologies. Constantly learning and applying new concepts, I strive to create efficient and innovative solutions. I aim to blend my interests into a career that drives my both personal and professional growth.
+          I’m a passionate Developer, constantly learning and applying new concepts to create efficient and innovative solutions. I love playing with logic and exploring frontend technologies, continuously growing in that area. I aim to be a Full Stack Developer,                 blending both backend and frontend skills to fuel my personal and professional growth.
         </p>
       </td>
     </tr>
