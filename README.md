@@ -63,7 +63,7 @@
       <td style="width: 50%; vertical-align: top; padding: 20px;">
         <h2 align="center">🚀 About Me</h2>
         <p align="center">
-          I’m a passionate Developer, constantly learning and applying new concepts to create efficient and innovative solutions. I love playing with logic and exploring frontend technologies, continuously growing in that area. I aim to be a Full Stack Developer,                 blending both backend and frontend skills to fuel my personal and professional growth.
+          I’m a passionate Software Engineer, constantly learning and applying new concepts to create efficient and innovative solutions. I love playing with logic and exploring frontend technologies, continuously growing in that area. I aim to be a Software Engineer,                 blending both backend and frontend skills to fuel my personal and professional growth.
         </p>
       </td>
     </tr>
