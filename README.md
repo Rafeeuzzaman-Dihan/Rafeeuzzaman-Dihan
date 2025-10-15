@@ -46,6 +46,9 @@
           <a href="https://www.mysql.com/">
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
           </a>
+          <a href="https://www.mongodb.com/">
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+          </a>
           <a href="https://isocpp.org/">
             <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
           </a>
