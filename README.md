@@ -16,9 +16,6 @@
           <a href="https://laravel.com/">
             <img src="https://img.shields.io/badge/Laravel-F2A9B7?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
           </a>
-          <a href="https://laravel.com/docs/9.x/blade">
-            <img src="https://img.shields.io/badge/Blade-FF8C00?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade" />
-          </a>
           <a href="https://nuxtjs.org/">
             <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
           </a>
@@ -57,12 +54,6 @@
           </a>
           <a href="https://www.python.org/">
             <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-          </a>
-          <a href="https://git-scm.com/">
-            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-          </a>
-          <a href="https://github.com/">
-            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
           </a>
         </p>
       </td>
