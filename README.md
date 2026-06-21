@@ -43,17 +43,11 @@
           <a href="https://www.mysql.com/">
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
           </a>
+          <a href="https://www.postgresql.org/">
+            <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+          </a>
           <a href="https://www.mongodb.com/">
             <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-          </a>
-          <a href="https://isocpp.org/">
-            <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-          </a>
-          <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-            <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-          </a>
-          <a href="https://www.python.org/">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
           </a>
         </p>
       </td>
